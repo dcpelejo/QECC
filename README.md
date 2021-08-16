@@ -1,2 +1,7 @@
 # QECC
-Quantum Error Correction Scheme for Quantum Channels with Fully Correlated Noise
+Files related to the following Research Paper 
+Title: Quantum Error Correction Scheme for Quantum Channels with Fully Correlated Noise
+Authors: Chi-Kwong Li, Cordelia Li, Diane Christine Pelejo, Sage StanisH
+Submission Status: Preprint, Not yet published
+
+PNG files are named according to their appearance in the manuscript
